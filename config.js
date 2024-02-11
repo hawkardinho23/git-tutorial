@@ -1,2 +1,2 @@
-console.log("Version 5");
-console.log("Jehovas witness");
+console.log("Version 6");
+console.log("The beginning is the end");

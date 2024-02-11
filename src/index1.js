@@ -1,2 +1,2 @@
-console.log("Version 5");
-console.log("I have eyes but i can't see");
+console.log("Version 6");
+console.log("and the end is the beginning");
